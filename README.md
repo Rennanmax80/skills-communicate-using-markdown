@@ -1,4 +1,4 @@
-<header>
+![image](https://github.com/Rennanmax80/skills-communicate-using-markdown/assets/48867131/aaf4c544-6456-411b-a92b-2092f4069a9a)<header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -36,11 +36,15 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ### Example
 
 ```md
-# This is an `<h1>` header, which is the largest
+<H1>Hello Word</H1>
 
-## This is an `<h2>` header
+![https://github.com/account](https://avatars.githubusercontent.com/u/48867131?v=4)
 
-###### This is an `<h6>` header, which is the smallest
+This is `code`.
+
+- [x] Tarefa1
+- [x] Tarefa2
+- [ ] Tarefa3
 ```
 
 #### How it looks
